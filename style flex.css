@@ -25,3 +25,11 @@
 .container {
     display: flex;
 }
+
+.box4 {
+    flex: 2;
+}
+
+.box8 {
+    flex: 3;
+}
